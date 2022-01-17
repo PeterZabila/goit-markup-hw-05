@@ -862,7 +862,7 @@ footer {
   height: 100vh;
   background-color: rgba(135, 126, 131, 0.8);
   display: flex;
-  transition: opacity 500ms, visibility 500ms;
+  transition: transform 500ms, visibility 500ms;
 }
 
 .backdrop.is-hidden .modal {
